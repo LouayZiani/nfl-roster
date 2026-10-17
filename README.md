@@ -1,8 +1,8 @@
-# Depth Chart
+# NFL Roster
 
 React single page application for browsing NFL players. Midterm project for the React course.
 
-Live app: _add the deployed link here_
+Live app: https://louayziani.github.io/nfl-roster/
 
 ## What it does
 
